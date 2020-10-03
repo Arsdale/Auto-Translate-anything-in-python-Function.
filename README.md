@@ -1,2 +1,14 @@
 # Auto-Translate-anything-in-python-Function.
-Hi! My name is Hassan Waheed Ali and I am a python developer with over 1 year + experience on this repository I will make a translater function which I will be give you completely free download and enjoy Thanks!
+Thanks for downloading! If liked give me feedback Thanks.
+
+How to use!
+
+I will give you a function which will be translate anything only
+create dictionary and save on variable onece you done this
+Write my function which I will give on the Brackets() write
+your variable name and look the magic.
+
+IMPORTANT!!
+YOU WANT BE ABLE TO SALE OR RESALL IT.
+
+THANKS FOR DOWNLOADING
