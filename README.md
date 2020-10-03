@@ -2,9 +2,9 @@ Thanks for downloading it! If liked give me feedback Thanks.
 
 How to use it!
 
-I will give you a function which will be translate anything only
+I will give you a function which will be translate anything only need
 create a dictionary and save on variable once you done this
-Write my function which I will give you write on the Brackets()
+Write my function and write variable name on the Brackets()
 write your variable name on brackets and look the magic.
 
 IMPORTANT!!
